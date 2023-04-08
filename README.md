@@ -1,4 +1,4 @@
-# CRYPTO-MARKET-DASHBOARD
+# CRYPTO-MARKET-POWER BI DASHBOARD
 Interactive Power BI Dashboard to Analyse market trends in Cryptocurrency Domain
 
 
